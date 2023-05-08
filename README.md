@@ -1,2 +1,3 @@
 # INF653Final
-Test!
+
+Please see the .envExample to see how you should set your .env file! 
